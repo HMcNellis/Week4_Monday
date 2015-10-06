@@ -1,4 +1,4 @@
-# Outline for Monday, October 5th
+# Outline for Monday, October 5th - Hanni
 - Review Wednesday's Exercises
 - Intro to jQuery
 
